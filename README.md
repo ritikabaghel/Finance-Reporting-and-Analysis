@@ -56,13 +56,3 @@ The goal of this project was to design an **interactive financial dashboard** th
 * Developing **data storytelling** skills for clear stakeholder communication.
 * Bridging **data analytics with finance domain knowledge**.
 
----
-
-## 📷 Screenshots
-
-*(Add dashboard screenshots here for better visualization)*
-
----
-
-
-👉 Do you want me to also write a **short LinkedIn post caption** that you can use when sharing this project online?
